@@ -135,8 +135,6 @@ For any questions or feedback, please contact [YOUR_EMAIL@example.com](mailto:gu
 - **Advanced AI Features**: Integration with more advanced AI models for enhanced content generation.
 - **User Authentication**: Add user login and management features.
 
-```
-
 ### Summary
 
 - **Overview**: Explains what the project does.
