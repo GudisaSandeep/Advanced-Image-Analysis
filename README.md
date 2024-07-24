@@ -13,7 +13,7 @@ The **Gemini Pro Vision Image Analysis Project** is a Streamlit web application 
 
 ## Technologies Used
 
-- **Backend**: Flask
+- **Backend**: Streamlit
 - **Frontend**: Bootstrap
 - **Image Processing**: Pillow
 - **AI Integration**: Google Generative AI
@@ -120,14 +120,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- **Flask**: The web framework used for building the application.
+- **Streamlit**: The web framework used for building the application.
 - **Bootstrap**: Provides the responsive design.
 - **Google AI**: For the generative model.
 - **Pillow**: For image processing.
 
 ## Contact
 
-For any questions or feedback, please contact [YOUR_EMAIL@example.com](mailto:gudisasandeep141312@gmail.com).
+For any questions or feedback, please contact [gudisasandeep141312@gmial.com](mailto:gudisasandeep141312@gmail.com).
 
 ## Future Enhancements
 
@@ -147,6 +147,4 @@ For any questions or feedback, please contact [YOUR_EMAIL@example.com](mailto:gu
 - **Acknowledgements**: Credits to technologies and libraries used.
 - **Contact**: Contact information for the project maintainer.
 - **Future Enhancements**: Possible future improvements.
-
-Replace placeholders like `YOUR_USERNAME`, `your_google_api_key`, and `YOUR_EMAIL@example.com` with your actual information. This README provides a comprehensive guide for users and contributors, making it easier to understand, set up, and contribute to the project.
 
