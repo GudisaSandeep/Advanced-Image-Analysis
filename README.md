@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Gemini Pro Vision Image Analysis Project** is a Flask-based web application that leverages Google AI's Generative Model to analyze images and generate text based on user prompts. The application features a modern, responsive front-end built with Bootstrap, providing an engaging and user-friendly experience.
+The **Gemini Pro Vision Image Analysis Project** is a Streamlit web application that leverages Google AI's Generative Model to analyze images and generate text based on user prompts. The application features a modern, responsive front-end built with Bootstrap, providing an engaging and user-friendly experience.
 
 ## Features
 
@@ -31,8 +31,9 @@ The **Gemini Pro Vision Image Analysis Project** is a Flask-based web applicatio
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/YOUR_USERNAME/flask_app.git
-   cd flask_app
+   git clone https://github.com/GudisaSandeep/Advanced-Image-Analysis
+   cd Advanced-Image-Analysis
+
 
 
 ## Setup
@@ -47,8 +48,7 @@ The **Gemini Pro Vision Image Analysis Project** is a Flask-based web applicatio
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/YOUR_USERNAME/flask_app.git
-   cd flask_app
+    git clone https://github.com/GudisaSandeep/Advanced-Image-Analysis
    ```
 
 2. **Create and Activate a Virtual Environment**
