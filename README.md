@@ -135,16 +135,5 @@ For any questions or feedback, please contact [gudisasandeep141312@gmial.com](ma
 - **Advanced AI Features**: Integration with more advanced AI models for enhanced content generation.
 - **User Authentication**: Add user login and management features.
 
-### Summary
 
-- **Overview**: Explains what the project does.
-- **Features**: Lists key features of the application.
-- **Technologies Used**: Details the technologies involved.
-- **Setup**: Instructions for setting up the project locally.
-- **Usage**: How to use the application.
-- **Development**: Guidelines for contributing to the project.
-- **License**: Licensing information.
-- **Acknowledgements**: Credits to technologies and libraries used.
-- **Contact**: Contact information for the project maintainer.
-- **Future Enhancements**: Possible future improvements.
 
